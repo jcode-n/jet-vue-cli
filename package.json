@@ -1,0 +1,26 @@
+{
+  "name": "jet-vue-cli",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "jet": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue", "vue-cli", "jet"],
+  "author": "jetblack",
+  "license": "MIT",
+  "homepage": "https://github.com/wanghainan-arch/jet-vue-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wanghainan-arch/jet-vue-cli"
+  },
+  "dependencies": {
+    "commander": "^6.2.1",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.5",
+    "open": "^7.3.0"
+  }
+}
